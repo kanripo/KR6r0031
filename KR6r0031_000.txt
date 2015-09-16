@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿育王傳
+#+DATE: 2015-08-30 22:14:57.131250
+#+PROPERTY: JUAN 0
